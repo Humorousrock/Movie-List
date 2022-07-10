@@ -1,6 +1,6 @@
 # Movie List	:movie_camera:
 ***A simple web application for movie fanatic***
-
+LIVE-DEMO=https://merry-kataifi-9220ac.netlify.app/
 
 
 ## Features	:briefcase:
